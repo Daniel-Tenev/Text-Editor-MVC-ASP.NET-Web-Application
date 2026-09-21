@@ -1,0 +1,162 @@
+/* Base font scaling */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* General layout */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #faf7f2; /* warm beige background */
+    color: #3c2f2f; /* soft dark brown for text */
+    font-family: 'Inter', 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.6;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 10px;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+    background-color: #f3d8c2; /* warm sand tone */
+    border: 1px solid #e5bfa4;
+    color: #3b2c2a;
+}
+
+    .btn:hover {
+        background-color: #eac7a8;
+        border-color: #dba98a;
+    }
+
+    .btn:focus,
+    .btn:active:focus,
+    .btn-link.nav-link:focus,
+    .form-control:focus,
+    .form-check-input:focus {
+        box-shadow: 0 0 0 0.15rem #f3d8c2, 0 0 0 0.35rem rgba(240, 160, 120, 0.4);
+        outline: none;
+    }
+
+/* Form controls */
+.form-control {
+    border-radius: 8px;
+    border: 1px solid #e1c7b8;
+    background-color: #fffdfb;
+    color: #3c2f2f;
+}
+
+    .form-control:focus {
+        border-color: #f0b78b;
+        background-color: #fff9f5;
+    }
+
+/* Navbar or header area */
+.navbar {
+    background-color: #fff4ec;
+    border-bottom: 1px solid #eed9c4;
+    box-shadow: 0 2px 6px rgba(100, 80, 60, 0.05);
+}
+
+/* Links */
+a, .nav-link {
+    color: #c07a3f;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+
+    a:hover, .nav-link:hover {
+        color: #a85e28;
+    }
+
+/* Footer */
+footer {
+    background-color: #fff4ec;
+    border-top: 1px solid #eed9c4;
+    padding: 1rem 0;
+    color: #7a5b45;
+}
+
+/* Document area (if applicable) */
+.editor-container {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(80, 60, 40, 0.1);
+    padding: 2rem;
+    width: 100%;
+    max-width: 100%;
+    min-width: 300px;
+    margin: 0 auto;
+}
+
+/* ===== Warm TinyMCE Theme ===== */
+.tox {
+    --tox-bg-color: #fffdfb;
+    --tox-toolbar-bg: #fff4ec;
+    --tox-toolbar-border-color: #eed9c4;
+    --tox-button-bg-color: #f3d8c2;
+    --tox-button-hover-bg-color: #eac7a8;
+    --tox-button-active-bg-color: #e0b698;
+    --tox-button-color: #3b2c2a;
+    --tox-text-color: #3c2f2f;
+    --tox-dialog-bg: #fff9f5;
+    --tox-border-color: #e1c7b8;
+}
+
+    /* TinyMCE toolbar & buttons */
+    .tox .tox-toolbar,
+    .tox .tox-toolbar__primary {
+        background-color: var(--tox-toolbar-bg) !important;
+        border-bottom: 1px solid var(--tox-toolbar-border-color) !important;
+    }
+
+    .tox .tox-tbtn {
+        background-color: transparent !important;
+        border-radius: 6px !important;
+        transition: all 0.2s ease-in-out;
+    }
+
+        .tox .tox-tbtn:hover {
+            background-color: var(--tox-button-hover-bg-color) !important;
+        }
+
+        .tox .tox-tbtn--enabled,
+        .tox .tox-tbtn:active {
+            background-color: var(--tox-button-active-bg-color) !important;
+        }
+
+    .tox .tox-statusbar {
+        background-color: #fff4ec !important;
+        border-top: 1px solid #eed9c4 !important;
+        color: #7a5b45 !important;
+    }
+
+/* ===== Buttons consistency ===== */
+.btn-primary {
+    background-color: #f3d8c2;
+    border-color: #e5bfa4;
+    color: #3b2c2a;
+}
+
+    .btn-primary:hover {
+        background-color: #eac7a8;
+        border-color: #dba98a;
+    }
+
+    .btn-primary:active {
+        background-color: #e0b698 !important;
+        border-color: #dba98a !important;
+    }
+
+
+

@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\TextEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\docs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\docs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\docs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\docs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\models\\usersummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\models\\usersummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\models\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\models\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\controllers\\docscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\controllers\\docscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\migrations\\20260728192510_addapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\migrations\\20260728192510_addapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|c:\\users\\user\\desktop\\texteditor\\texteditor\\migrations\\20251110104749_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33BE88-4A2A-4F6B-90D2-3CE8569D70EF}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\migrations\\20251110104749_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Docs\\Index.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Docs\\Index.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Docs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:47:56.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T22:11:40.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T22:06:18.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:06:35.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:06:46.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T17:42:36.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:06:55.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:06:51.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\appsettings.json",
+              "RelativeDocumentMoniker": "TextEditor\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\appsettings.json",
+              "RelativeToolTip": "TextEditor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T08:52:04.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Program.cs",
+              "RelativeToolTip": "TextEditor\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:06:57.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Docs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Docs\\Edit.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Docs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:47:47.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Docs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Docs\\Delete.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Docs\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-29T05:14:49.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAGUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-28T19:21:35.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserSummaryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Models\\UserSummaryViewModel.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Models\\UserSummaryViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Models\\UserSummaryViewModel.cs",
+              "RelativeToolTip": "TextEditor\\Models\\UserSummaryViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswBwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T19:19:04.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Doc.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Models\\Doc.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Models\\Doc.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Models\\Doc.cs",
+              "RelativeToolTip": "TextEditor\\Models\\Doc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:27:24.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "TextEditor\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T19:17:53.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TextEditor\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T19:19:48.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TextEditor\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:09:58.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DocsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Controllers\\DocsController.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Controllers\\DocsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Controllers\\DocsController.cs",
+              "RelativeToolTip": "TextEditor\\Controllers\\DocsController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAIwIQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:09:47.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TextEditor\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwHoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T19:20:13.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Docs\\Create.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Docs\\Create.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Docs\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T22:10:36.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TextEditor\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:40:58.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "TextEditor\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:09:01.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260728192510_AddApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Migrations\\20260728192510_AddApplicationUser.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Migrations\\20260728192510_AddApplicationUser.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Migrations\\20260728192510_AddApplicationUser.cs",
+              "RelativeToolTip": "TextEditor\\Migrations\\20260728192510_AddApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T19:25:10.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TextEditor\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TextEditor\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAlwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-09T22:07:02.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T17:43:21.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20251110104749_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Migrations\\20251110104749_Initial.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Migrations\\20251110104749_Initial.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\Migrations\\20251110104749_Initial.cs",
+              "RelativeToolTip": "TextEditor\\Migrations\\20251110104749_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:47:49.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "TextEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TextEditor\\TextEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "TextEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-09T22:14:21.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

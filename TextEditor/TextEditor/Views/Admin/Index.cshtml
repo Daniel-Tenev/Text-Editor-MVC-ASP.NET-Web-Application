@@ -1,0 +1,126 @@
+﻿@model TextEditor.Models.AdminUsersViewModel
+@{
+    ViewData["Title"] = "Admin – User Management";
+}
+
+<div class="container-fluid py-4">
+
+    <div class="d-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 fw-bold mb-0" style="color:#a85e28;">
+            🛡️ Admin Panel
+            <small class="fs-6 text-muted fw-normal ms-2">User Management</small>
+        </h1>
+        <span class="badge rounded-pill" style="background-color:#f3d8c2; color:#3b2c2a; font-size:.85rem;">
+            @Model.Users.Count user(s)
+        </span>
+    </div>
+
+    @if (!string.IsNullOrWhiteSpace(Model.StatusMessage))
+    {
+        <div class="alert alert-info alert-dismissible fade show" role="alert">
+            @Model.StatusMessage
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+
+    <div class="card shadow-sm border-0">
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-hover align-middle mb-0">
+                    <thead style="background-color:#fff4ec;">
+                        <tr>
+                            <th class="ps-4" style="color:#a85e28;">Display name</th>
+                            <th style="color:#a85e28;">Email</th>
+                            <th style="color:#a85e28;">Role</th>
+                            <th style="color:#a85e28;">Status</th>
+                            <th class="text-center" style="color:#a85e28;">Docs</th>
+                            <th style="color:#a85e28;">Created</th>
+                            <th style="color:#a85e28;">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var user in Model.Users)
+                        {
+                            <tr>
+                              
+                                <td class="ps-4 fw-semibold">@user.DisplayName</td>
+
+                              
+                                <td class="text-muted small">@user.Email</td>
+
+                                
+                                <td>
+                                    <form asp-action="SetRole" method="post" class="d-flex gap-1 align-items-center">
+                                        @Html.AntiForgeryToken()
+                                        <input type="hidden" name="userId" value="@user.Id" />
+                                        <select name="role" class="form-select form-select-sm" style="max-width:130px;">
+                                            @foreach (var role in TextEditor.Models.AppRoles.All)
+                                            {
+                                                <option value="@role"
+                                                        selected="@(user.Roles.Contains(role) ? "selected" : null)">
+                                                    @role
+                                                </option>
+                                            }
+                                        </select>
+                                        <button type="submit" class="btn btn-sm"
+                                                style="background-color:#f3d8c2; color:#3b2c2a; border:none;"
+                                                title="Save role">
+                                            ✔
+                                        </button>
+                                    </form>
+                                </td>
+
+                               
+                                <td>
+                                    <span class="@user.LockStatusBadgeClass">@user.LockStatus</span>
+                                </td>
+
+                               
+                                <td class="text-center">
+                                    <span class="badge rounded-pill bg-light text-dark border">
+                                        @user.DocumentCount
+                                    </span>
+                                </td>
+
+                                
+                                <td class="text-muted small">@user.CreatedAtFormatted</td>
+
+                                
+                                <td>
+                                    <div class="d-flex gap-2">
+                                       
+                                        <form asp-action="ToggleLock" method="post">
+                                            @Html.AntiForgeryToken()
+                                            <input type="hidden" name="userId" value="@user.Id" />
+                                            <button type="submit"
+                                                    class="btn btn-sm @(user.IsLockedOut ? "btn-outline-success" : "btn-outline-warning")"
+                                                    title="@(user.IsLockedOut ? "Unlock" : "Lock") user">
+                                                @(user.IsLockedOut ? "🔓 Unlock" : "🔒 Lock")
+                                            </button>
+                                        </form>
+
+                                    
+                                        <form asp-action="DeleteUser" method="post"
+                                              onsubmit="return confirm('Permanently delete @Html.Raw(user.DisplayName) and all their documents?');">
+                                            @Html.AntiForgeryToken()
+                                            <input type="hidden" name="userId" value="@user.Id" />
+                                            <button type="submit" class="btn btn-sm btn-outline-danger"
+                                                    title="Delete user">
+                                                🗑 Delete
+                                            </button>
+                                        </form>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <p class="text-muted small mt-3">
+        ℹ️ You cannot change your own role, lock your own account, or delete yourself.
+    </p>
+</div>
+
